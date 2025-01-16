@@ -1,0 +1,2 @@
+- Hi? I am @kezuhiro-web
+- Full bio == https://kezuhiro-web.github.io/biography
