@@ -1,2 +1,2 @@
 - Hi? I am @kezuhiro-web
-- Full bio == https://kezuhiro-web.github.io/biography
+- Full bio == https://kezuhiro.ru
